@@ -5,7 +5,7 @@ function MainFrame() {
   return (
     <>
       <div className="jumbotron text-center">
-        <h1>Employee Directory</h1>
+        <h1>Employee Directory & User Directory</h1>
       </div>
       <div className="container">
         <MainPage />
