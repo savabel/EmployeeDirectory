@@ -10,9 +10,7 @@ function MainFrame() {
       <div className="container">
         <MainPage />
       </div>
-      <footer className="text-center">
-        ESMT Berlin Coding Bootcamp, Hristina Staykova
-      </footer>
+      <footer className="text-center">Abel J-M S</footer>
     </>
   );
 }
