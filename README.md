@@ -1,4 +1,4 @@
-# Project Title : Employee Directory
+# Project Title : User Directory
 
 ## Project Description:
 
@@ -65,4 +65,4 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/repo-size/savabel/https://github.com/savabel/EmployeeDirectory)
+![badmath](https://img.shields.io/github/repo-size/savabel/https://github.com/savabel/UserDirectory)
